@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shalini-S-19
+- 👋 Hi, I’m Shalini S
 - 👀 I’m interested in web developement
-- 🌱 I’m currently in my 3rd pursuing B.E in Civil Engineering
+- 🌱 I’m currently in my 3rd year pursuing B.E in Civil Engineering
 - 💞️ I’m looking to collaborate on web developing projects
 - 📫 Reach out to shalinii.senthilkumarr@gmail.com to connect
 
